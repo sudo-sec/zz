@@ -1,2 +1,1 @@
-# r4sec
-sudo-sec
+# sudo-sec
